@@ -40,7 +40,7 @@ creates a Neural network using one of the three datasets. Prints test outputs an
 
 ## usage
 
-Of the three used datasets used, 2 are included in the repository. The dataset "Orignal Data" is not included in git, because of its size restrictions. You can download it [here](https://1drv.ms/u/s!ArCCSMcsPLPhyUX-HYHqGYIx8Q6Z?e=8eLGO0) or run the first notebook, which uses the raw data files in the data folder.
+Of the three used datasets used, 2 are included in the repository. The dataset "Orignal Data" is not included in git, because of its size restrictions. You can download it [here](https://1drv.ms/f/s!ArCCSMcsPLPhyUnjKzyeco62gaal?e=adOdOV) or run the first notebook, which uses the raw data files in the data folder.   
 
 When executing the second notebook PCA, you need the orignial dataset "original_tpm_data.csv".Depending on the execuded code cells, it will produce pca dataset with approx. 80% or 100% explained variance respectively.
 
