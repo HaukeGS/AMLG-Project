@@ -399,3 +399,5 @@ FodyWeavers.xsd
 
 final_data_only_tpm.csv
 original_tpm_data.csv
+_temp*
+.zip
